@@ -32,4 +32,9 @@ nav ul li a {
 nav ul li a:hover {
     background-color: white;
 }
+
+h1 {
+    text-align:center;
+    margin-top:60px;
+}
  
